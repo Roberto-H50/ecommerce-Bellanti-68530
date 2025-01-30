@@ -1,7 +1,6 @@
 import ButtonComponent from '../../ButtonComponent.jsx';
 
-import CartWidget from '../../common/carW
-idget/CartWidget.jsx';
+import CartWidget from '../../common/carWidget/CartWidget.jsx';
 export default function NavBar() {
     return (
       <>
